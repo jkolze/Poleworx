@@ -10871,6 +10871,7 @@ p {
   padding-top: 1rem;
   padding-bottom: 1rem;
   background-color: #fff;
+
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10908,6 +10909,7 @@ p {
     border: none;
     background-color: #fff;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+    height: 90px;
   }
   #mainNav .navbar-brand {
     font-size: 1.5em;
