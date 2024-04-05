@@ -10868,8 +10868,8 @@ p {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #fff;
 
 }
@@ -10939,7 +10939,7 @@ p {
   }
 }
 header.masthead {
-  padding-top: 10.5rem;
+  padding-top: 16.5rem;
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
